@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: New Level Prefabs 1
+  m_EditorClassIdentifier: TilesConPathFinding::LevelPrefabs
+  Floor:
+  - {fileID: 6542144054721029301, guid: caf7540169d520a4eb009b83b31874f0, type: 3}
+  Wall:
+  - {fileID: 8526249205937714784, guid: ca29796af935ef54bb51c159526f209f, type: 3}
+  - {fileID: 6109219772831496959, guid: 55ce3fbd0ac7bf64099182523b597708, type: 3}
+  Corner:
+  - {fileID: 8526249205937714784, guid: 8e5cdc3ba37eb7f4c970b640c6378037, type: 3}
+  - {fileID: 965015674073345355, guid: ed4cedc3f49629f43a222ac8ec06af8f, type: 3}
+  Door:
+  - {fileID: 4646965138562838658, guid: 333d2e295961814439f446379bfb3381, type: 3}
+  Corridor:
+  - {fileID: 1725732850544658569, guid: 82c2c11a658f8974b82ad323d724567e, type: 3}
+  CorridorCorner:
+  - {fileID: 2493092007837544645, guid: 8c8e339706a991849a930c36698af37f, type: 3}

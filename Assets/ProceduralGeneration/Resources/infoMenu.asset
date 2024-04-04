@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6dcc8f51075e234c91f940766eff712, type: 3}
+  m_Name: infoMenu
+  m_EditorClassIdentifier: 
+  FloorOfTheGrid: {fileID: 6378836865430158465, guid: 5a123596bb8409b49a3499ae5096a433, type: 3}
+  NodeInfoToCollapse: {fileID: 4136122748559526384, guid: 77df14e733224534da1ffa43b1ab43cb, type: 3}
+  Portal: {fileID: 2411890058274411245, guid: f099a56cc9b04c943ac559407a95d04e, type: 3}

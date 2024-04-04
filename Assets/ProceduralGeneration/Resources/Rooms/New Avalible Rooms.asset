@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08475d49f18737a4fb01a0e9e2f1de36, type: 3}
+  m_Name: New Avalible Rooms
+  m_EditorClassIdentifier: 
+  Room_E:
+  - {fileID: 7515952431707522633, guid: 9d25f957fb22f7e4ca5d9ea3530ae192, type: 3}
+  Room_EN:
+  - {fileID: 949745579458318648, guid: 5731a2817a09ccc48af547cf3a475780, type: 3}
+  Room_ENS:
+  - {fileID: 286852530846113438, guid: cc9d36fb638f4ce42aa11ebaf5a8000c, type: 3}
+  Room_ENST:
+  - {fileID: 286852530846113438, guid: 9c2424262adab414d84c3562aa65192b, type: 3}
+  Room_ENSW:
+  - {fileID: 3189842013106106667, guid: 2391844032cddca468ce61ed97e65fb2, type: 3}
+  Room_ENSWT:
+  - {fileID: 3189842013106106667, guid: 910a4ded6ca83e74e931ecd5644f3b74, type: 3}
+  Room_ENT:
+  - {fileID: 949745579458318648, guid: 81f6f82ec3334774480015d22cef9a0e, type: 3}
+  Room_ENW:
+  - {fileID: 2415507049398828670, guid: cab478aaf65c6b2498187ce7397f8713, type: 3}
+  Room_ENWT:
+  - {fileID: 2415507049398828670, guid: 79d4c62a7c4957f458d024b1da11f47d, type: 3}
+  Room_ES:
+  - {fileID: 556105575285457378, guid: d412578f1e456eb42b89a7dba0156877, type: 3}
+  Room_EST:
+  - {fileID: 556105575285457378, guid: 1731ff24dedf19140acc7f68475e3d2b, type: 3}
+  Room_ESW:
+  - {fileID: 2088177784243941346, guid: 0abe88823d20047479871dc53ef605eb, type: 3}
+  Room_ESWT:
+  - {fileID: 2088177784243941346, guid: b6e81a4f188220d4b887bffc6b7cb6cb, type: 3}
+  Room_ET:
+  - {fileID: 7515952431707522633, guid: 338306137f9285745bf0ece91265959e, type: 3}
+  Room_EW:
+  - {fileID: 3182463065702419401, guid: 2a442b7c97c056a49a128870009fb154, type: 3}
+  Room_EWT:
+  - {fileID: 3182463065702419401, guid: 9fed88557dda15540b0787ebf5cf9db5, type: 3}
+  Room_N:
+  - {fileID: 5372083562092917362, guid: 5e05a20b190975841a3056566e794982, type: 3}
+  - {fileID: 5372083562092917362, guid: 081936115fd1c0e40b6a987d153f1039, type: 3}
+  Room_NS:
+  - {fileID: 5319775300068901781, guid: 477f88d8d71abf44b8d167fcfbd1d9f3, type: 3}
+  Room_NST:
+  - {fileID: 5319775300068901781, guid: d59531f2d3f3895408f94aa8e986bcb9, type: 3}
+  Room_NSW:
+  - {fileID: 8168783457118844272, guid: 1eef75a10c8e5f14a8049ad3108164d2, type: 3}
+  Room_NSWT:
+  - {fileID: 8168783457118844272, guid: a39360f34a878774eaf0f648af804745, type: 3}
+  Room_NT:
+  - {fileID: 5372083562092917362, guid: 383dd0eb77a8a3c4086fcb5d7266ef47, type: 3}
+  Room_NW:
+  - {fileID: 3604901750906833209, guid: 0689783948360574e8229a723e75913f, type: 3}
+  Room_NWT:
+  - {fileID: 3604901750906833209, guid: 5f3c30585d9e85347a40b977dce7953b, type: 3}
+  Room_S:
+  - {fileID: 2369839209423945705, guid: 4c68a3ff4e9b8f04bb2f4efaddeb5dac, type: 3}
+  - {fileID: 2369839209423945705, guid: d9975df8361586847aa209d53ec72f07, type: 3}
+  Room_ST:
+  - {fileID: 2369839209423945705, guid: 880bbca153ea04a42b7bc516480848d9, type: 3}
+  Room_SW:
+  - {fileID: 5293382171565185792, guid: c93aae554e78ec74a907f846b15fbedb, type: 3}
+  Room_SWT:
+  - {fileID: 5293382171565185792, guid: d1751fe748c391743b532d52ad1ecb56, type: 3}
+  Room_W:
+  - {fileID: 4911884214502905966, guid: a0a3d514817d483418ea6dfd7d3a41e7, type: 3}
+  Room_WT:
+  - {fileID: 4911884214502905966, guid: 17c127f5f2dc703408f25cc4bd3c2e46, type: 3}
